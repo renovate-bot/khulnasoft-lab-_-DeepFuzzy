@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:24.04
 
 # Set up the non-root user
 RUN apt-get update \
